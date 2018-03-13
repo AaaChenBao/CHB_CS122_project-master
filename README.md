@@ -77,47 +77,46 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
 #### 1. Home
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Templates: 
+* Templates: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;home page(home.html)
+ + home page(home.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;base template(new.html)
+ + base template(new.html)
 
 #### 2. Route
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Templates:
+* Templates:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;form page(index.html)
+ + form page(index.html)
         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; map page(map.html)
+ + map page(map.html)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python files:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1) Four python files are written by Xi Chen: 
+* Python files are written by Xi Chen: 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose safest route.py, Compute crime weights.py,  Get route for map.py, Subset data by time.py. 
+   > Choose safest route.py, Compute crime weights.py,  Get route for map.py, Subset data by time.py. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only Choose safest route.py is imported in views.py, Compute crime weights.py and Subset data by time.py are used to generated csv files in route/Data that are used to filter crime data by time and date. Get route for map.py is used in views.py, to get a list of waypoints 
+   > Only Choose safest route.py is imported in views.py,  Compute crime weights.py and Subset data by time.py are used to generated csv files in route/Data that are used to filter crime data by time and date. Get route for map.py is used in views.py, to get a list of waypoints 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)  Other python files are written by Jie Heng:
+ +  Other python files are written by Jie Heng:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspcheckplace.py is used to test if user searches a valid address  
+   > checkplace.py is used to test if user searches a valid address  
                
 #### 3. visual_crime
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Template:
+* Template:
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heatmap page(index.html)
+ + heatmap page(index.html)
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Others:
+* Others:
 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Past one year's crime data in Hyde Park is used to display the heatmap. Data is stored in visual_crime/static/route1.js
+ + Past one year's crime data in Hyde Park is used to display the heatmap. Data is stored in visual_crime/static/route1.js
    
 #### 4. analysis
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Template:
+* Template:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data analysis page(analysis.html)
+ + data analysis page(analysis.html)
          
 ##### copywrite
 
@@ -125,8 +124,7 @@ The template of the website is found from the Internet, the copyright is at the 
          
 ##### Run server:
 
-Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal.
- 
+ Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal.
  ---     
 ### Reference
 Python Client for Google Maps Services:
