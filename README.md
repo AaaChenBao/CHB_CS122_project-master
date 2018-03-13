@@ -97,7 +97,7 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Choose safest route.py, Compute crime weights.py,  Get route for map.py, Subset data by time.py. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only Choose safest route.py is imported in views.py,  Compute crime weights.py and Subset data by time.py are used to generated csv files in route/Data that are used to filter crime data by time and date. Get route for map.py is used in views.py, to get a list of waypoints 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only Choose safest route.py is imported in views.py, Compute crime weights.py and Subset data by time.py are used to generated csv files in route/Data that are used to filter crime data by time and date. Get route for map.py is used in views.py, to get a list of waypoints 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)  Other python files are written by Jie Heng:
 
@@ -125,7 +125,8 @@ The template of the website is found from the Internet, the copyright is at the 
          
 ##### Run server:
 
- Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal.
+Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal.
+ 
  ---     
 ### Reference
 Python Client for Google Maps Services:
