@@ -14,11 +14,11 @@ This is the original CSV file we downloaded from City of Chicago Data Portal (la
 ##### Modify_csv_data.py 
 Read in the original data file and format the data for future use
 
-##### Get_Security_Alert.py 
+##### Get_security_alert.py 
 https://safety-security.uchicago.edu/services/security_alerts/
 Crawl data from University of Chicago security alerts archive
 
-##### FBI_Code.py
+##### FBI_code.py
 http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N14
 Crawl data from Chicago Police Department Clear Map Crime Summary 
 
@@ -124,7 +124,7 @@ The template of the website is found from the Internet, the copyright is at the 
          
 ##### Run server:
 
- Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal.
+ Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal. Go to Chrome/Fireworks/IE, enter http address as: http://127.0.0.1:8000/home/.
 
 ---     
 ### Reference
@@ -133,3 +133,22 @@ Python Client for Google Maps Services:
 https://googlemaps.github.io/google-maps-services-python/docs/
 
 https://github.com/googlemaps/google-maps-services-python
+
+
+Google map API documents:
+
+https://developers.google.com/maps/documentation/geocoding/intro?hl
+
+https://developers.google.com/maps/documentation/javascript/earthquakes?hl
+
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform?hl
+
+
+
+Website template:
+
+http://www.free-css.com/free-css-templates/page207/gotya
+
+(analysis/templates/analysis) Make picture larger:
+
+https://stackoverflow.com/questions/37146565/make-an-image-bigger-on-click-and-go-back-to-small-on-second-click
