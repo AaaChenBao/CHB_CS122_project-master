@@ -8,19 +8,23 @@
 Data prep and visualization folder contains files including:
 
 ##### crimes_2001_to_present.scv
+
+This is the original CSV file we downloaded from City of Chicago Data Portal (last updated on Feb 20th), dataset reflects reported     incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present.
+
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
-This is the original CSV file we downloaded from City of Chicago Data Portal (last updated on Feb 20th), dataset reflects reported     incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present
 
 ##### Modify_csv_data.py 
 Read in the original data file and format the data for future use
 
 ##### Get_security_alert.py 
-https://safety-security.uchicago.edu/services/security_alerts/
 Crawl data from University of Chicago security alerts archive
 
+https://safety-security.uchicago.edu/services/security_alerts/
+
 ##### FBI_code.py
-http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N14
 Crawl data from Chicago Police Department Clear Map Crime Summary 
+
+http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N14
 
 ##### Merge_two_dataset.py 
 Merge data output from Modify_csv_data.py and Get_Security_Alert.py to get the "Final_data.csv"
