@@ -1,4 +1,6 @@
-from django.apps import AppConfig
+# Direct copy from model
+# Direct copy from model
+
 
 
 class VisualCrimeConfig(AppConfig):
