@@ -118,7 +118,7 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
   + data analysis page(analysis.html)
          
-##### copywrite
+##### Copywrite
 
 The template of the website is found from the Internet, the copyright is at the bottom of each page.
          
