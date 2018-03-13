@@ -1,3 +1,7 @@
+# Jie Heng
+# Original code (algorithm part is direct copy from Xi's code)
+# Reference: https://stackoverflow.com/questions/27753574/python-remove-first-number-from-string-if-its-0
+
 from django.http import HttpResponse
 from django.http import HttpResponseRedirect
 from django.shortcuts import render
