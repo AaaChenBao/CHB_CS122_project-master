@@ -15,10 +15,10 @@ Read in the original data file and format the data for future use
 
 ##### Get_Security_Alert.py 
 Crawl data from University of Chicago security alerts archive
-(https://safety-security.uchicago.edu/services/security_alerts/)
+ (https://safety-security.uchicago.edu/services/security_alerts/)
 
 ##### FBI_Code.py
-Crawl data from Chicago Police Department Clear Map Crime Summary 
+Crawl data from Chicago Police Department Clear Map Crime Summary
 (http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N14)
 
 ##### Merge_two_dataset.py 
