@@ -47,7 +47,7 @@ Use Python Seaborn package to create data visualizations and perform data analys
   
 #### An sample run for the the Algorithm codes:
 
-1. Download the four python codes above from the "02 Algorithm" folder, and download the "final_data.csv" from the "Data" folder inside the "02 Algorithm" folder.
+1. Download the four python codes above from the "02 Algorithm" folder, and download the "Final_data.csv" from the "Data" folder inside the "02 Algorithm" folder.
 
 2. In your computer, create a folder called "Algorithm", save the four algorithm's python files in this folder; inside the "Algorithm" folder, create a folder called "Data", save the "Final_data.csv" in this folder. The "Final_data.csv" is from the first part of "01 Data Prep". 
 
