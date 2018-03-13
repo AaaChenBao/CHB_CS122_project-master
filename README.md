@@ -18,7 +18,7 @@ Read in the original data file and format the data for future use
 Crawl data from University of Chicago security alerts archive
 
 ##### FBI_Code.py
-      Crawl data from Chicago Police Department Clear Map Crime Summary 
+Crawl data from Chicago Police Department Clear Map Crime Summary 
 
 ##### Merge_two_dataset.py 
 Merge data output from Modify_csv_data.py and Get_Security_Alert.py 
