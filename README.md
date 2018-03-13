@@ -37,13 +37,21 @@ Use Python Seaborn package to create data visualizations and perform data analys
    
    In the "02 Algorithm" folder, there are four python codes:
 
-##### Compute_crime_weights.py
+##### (1) Compute_crime_weights.py
 
-##### Subset_date_by_time.py
+Compute dangerous weights/scores for each crime location.
+
+##### (2) Subset_date_by_time.py
+
+Divide the crime dataset into twenty-four hourly subsets.
    
-##### Choose_safest_route.py
+##### (3) Choose_safest_route.py
+
+This file includes all the functions that are used to find the safest route.
    
-##### Get_route_for_map.py
+##### (4) Get_route_for_map.py
+
+This file calls the functions in "Choose_safest_route.py" to get the results.
   
 #### An sample run for the the Algorithm codes:
 
