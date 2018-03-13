@@ -139,11 +139,10 @@ Google map API documents:
 
 https://developers.google.com/maps/documentation/geocoding/intro?hl
 
-https:developers.google.com/maps/documentation/javascript/earthquakes?hl
+https://developers.google.com/maps/documentation/javascript/earthquakes?hl
 
 https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform?hl
 
-https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform?hl
 
 
 Website template:
