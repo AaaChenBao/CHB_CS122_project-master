@@ -1,4 +1,4 @@
-# CS122 project
+# CS122 / CAPP30122 Final Project
 # CHB Group
 
 ## Xi Chen, Jie Heng, Chen Bao
