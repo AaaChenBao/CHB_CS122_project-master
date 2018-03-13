@@ -1,6 +1,6 @@
-# CS122 / CAPP30122 Final Project
-## CHB Group
-### Xi Chen, Jie Heng, Chen Bao
+## CS122 / CAPP30122 Final Project
+### CHB Group
+#### Xi Chen, Jie Heng, Chen Bao
 
 
 ###  01 Data Prep and Visualization: Chen Bao 
