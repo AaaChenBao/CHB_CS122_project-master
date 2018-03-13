@@ -96,7 +96,7 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
    > Choose_safest_route.py, Compute_crime_weights.py,  Get_route_for_map.py, Subset_data_by_time.py. 
 
-   > Only Choose safest route.py is imported in views.py,  Compute crime weights.py and Subset data by time.py are used to generated csv files in route/Data that are used to filter crime data by time and date. Get route for map.py is used in views.py, to get a list of waypoints 
+   > Only Choose_safest_route.py is imported in views.py,  Compute_crime_weights.py and Subset_data_by_time.py are used to generated csv files in route/Data that are used to filter crime data by time and date. Get_route_for_map.py is used in views.py, to get a list of waypoints 
 
 * Other python files are written by Jie Heng:
 
