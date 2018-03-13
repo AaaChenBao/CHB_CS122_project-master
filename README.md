@@ -9,7 +9,7 @@ Data prep and visualization folder contains files including:
 
 ##### Crimes_2001_to_present.scv
       https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
-      This is the original CSV file we downloaded from City of Chicago Data Portal (last updated on Feb 20th), dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present
+      This is the original CSV file we downloaded from City of Chicago Data Portal (last updated on Feb 20th), dataset reflects reported     incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present
 
 ##### Modify_csv_data.py 
       Read in the original data file and format the data for future use
@@ -67,7 +67,7 @@ Data prep and visualization folder contains files including:
 
    python Get_route_for_map.py
    
-   There are several outputs which show different versions of the route in the process of the algorithm. You can change the user's inputs to have another sample test. There is one important thing that needs be kept in mind, when entering the departure date and time, the user has to enter an future date and time, or at least the current date/time, because the Google Map API would only accept the future or at least current date and time. 
+   There are several outputs which show different versions of the route in the process of the algorithm. You can change the user's inputs to have another sample test. There is one important thing that needs be kept in mind: when entering the departure date and time, the user has to enter a future date and time, or at least the current date/time, because the Google Map API would only accept the future or at least current date and time. 
    
    
    
