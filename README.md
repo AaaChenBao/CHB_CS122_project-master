@@ -122,9 +122,13 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
 The template of the website is found from the Internet, the copyright is at the bottom of each page.
          
-##### Run server:
+##### Run server(IMPORTANT):
 
- Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal. Go to Chrome/Fire fox/IE, enter http address as: http://127.0.0.1:8000/home/.
+Some functions of website(date and time picker) cannot work in the old version of fire fox in VM. Please run the following code in terminal first to install chrome:
+
+"$ sudo apt-get install chromium-browser"
+
+Then, please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal. Open Chromium, enter http address: http://127.0.0.1:8000/home.
 
 ---     
 ### Reference
