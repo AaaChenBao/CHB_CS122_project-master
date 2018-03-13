@@ -28,5 +28,6 @@ def check(input):
             else:
                  return latlng[0]['formatted_address'],[latlng[0]['geometry']['location']['lat'],
                                                         latlng[0]['geometry']['location']['lng']]
+            
         else:
             return None,None
