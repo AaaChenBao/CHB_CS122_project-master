@@ -1,7 +1,6 @@
-# CS122 project
-# CHB Group
-
-## Xi Chen, Jie Heng, Chen Bao
+## CAPP 30122 / CS 122 Final Project
+### CHB Group
+#### Xi Chen, Jie Heng, Chen Bao
 
 
 ###  01 Data Prep and Visualization: Chen Bao 
@@ -9,25 +8,31 @@
 Data prep and visualization folder contains files including:
 
 ##### Crimes_2001_to_present.scv
-      This is the original CSV file we downloaded from City of Chicago Data Portal (last updated on Feb 20th), dataset reflects reported  incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present
+This is the original CSV file we downloaded from City of Chicago Data Portal (last updated on Feb 20th), dataset reflects reported     incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present
+
+Data source: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 ##### Modify_csv_data.py 
-      Read in the original data file and format the data for future use
+Read in the original data file and format the data for future use
 
 ##### Get_Security_Alert.py 
-      Crawl data from University of Chicago security alerts archive
+Crawl data from University of Chicago security alerts archive
+
+Data source: https://safety-security.uchicago.edu/services/security_alerts/
 
 ##### FBI_Code.py
-      Crawl data from Chicago Police Department Clear Map Crime Summary 
+Crawl data from Chicago Police Department Clear Map Crime Summary 
+
+Data source: http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N14
 
 ##### Merge_two_dataset.py 
-      Merge data output from Modify_csv_data.py and Get_Security_Alert.py 
+Merge data output from Modify_csv_data.py and Get_Security_Alert.py 
 
 ##### Convert_to_dict.py
-      Convert the output from Modify_csv_data.py into a dictionary and export as json file
+Convert the output from Modify_csv_data.py into a dictionary and export as json file
 
 ##### Data_viz.py 
-      Use Python Seaborn package to create data visualizations and perform data analysis 
+Use Python Seaborn package to create data visualizations and perform data analysis 
 
 
 
@@ -43,7 +48,7 @@ Data prep and visualization folder contains files including:
    
 ##### Get_route_for_map.py
   
-#### An sample run for the the Algorithm codes:
+#### A sample run for the the Algorithm codes:
 
 1. Download the four python codes above from the "02 Algorithm" folder, and download the "final_data.csv" from the "Data" folder inside the "02 Algorithm" folder.
 
@@ -65,8 +70,14 @@ Data prep and visualization folder contains files including:
 
    python Get_route_for_map.py
    
-   There are several outputs which show different versions of the route in the process of the algorithm. You can change the user's inputs to have another sample test. There is one important thing that needs be kept in mind, when entering the departure date and time, the user has to enter an future date and time, or at least the current date/time, because the Google Map API would only accept the future or at least current date and time. 
+   There are several outputs which show different versions of the route in the process of the algorithm. You can change the user's inputs to have another sample test. There is one important thing that needs be kept in mind: when entering the departure date and time, the user has to enter a future date and time, or at least the current date/time, because the Google Map API would only accept the future or at least current date and time. 
    
    
    
-### Website: Jie Heng
+### 03 Website: Jie Heng
+
+
+
+### Reference
+Python Client for Google Maps Services:
+https://googlemaps.github.io/google-maps-services-python/docs/
