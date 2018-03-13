@@ -39,7 +39,7 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
 ##### Compute_crime_weights.py
 
-##### Subset_date_by_time.py
+##### Subset_data_by_time.py
    
 ##### Choose_safest_route.py
    
