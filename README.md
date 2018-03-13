@@ -124,7 +124,7 @@ The template of the website is found from the Internet, the copyright is at the 
          
 ##### Run server:
 
- Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal. Go to Chrome/Fireworks/IE, enter http address as: http://127.0.0.1:8000/home/.
+ Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal. Go to Chrome/Fire fox/IE, enter http address as: http://127.0.0.1:8000/home/.
 
 ---     
 ### Reference
