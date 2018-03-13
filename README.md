@@ -14,11 +14,11 @@ This is the original CSV file we downloaded from City of Chicago Data Portal (la
 ##### Modify_csv_data.py 
 Read in the original data file and format the data for future use
 
-##### Get_Security_Alert.py 
+##### Get_security_alert.py 
 https://safety-security.uchicago.edu/services/security_alerts/
 Crawl data from University of Chicago security alerts archive
 
-##### FBI_Code.py
+##### FBI_code.py
 http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N14
 Crawl data from Chicago Police Department Clear Map Crime Summary 
 
