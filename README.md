@@ -133,3 +133,23 @@ Python Client for Google Maps Services:
 https://googlemaps.github.io/google-maps-services-python/docs/
 
 https://github.com/googlemaps/google-maps-services-python
+
+
+Google map API documents:
+
+https://developers.google.com/maps/documentation/geocoding/intro?hl
+
+https:developers.google.com/maps/documentation/javascript/earthquakes?hl
+
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform?hl
+
+https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform?hl
+
+
+Website template:
+
+http://www.free-css.com/free-css-templates/page207/gotya
+
+(analysis/templates/analysis) Make picture larger:
+
+https://stackoverflow.com/questions/37146565/make-an-image-bigger-on-click-and-go-back-to-small-on-second-click
