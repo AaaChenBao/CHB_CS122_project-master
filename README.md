@@ -69,7 +69,7 @@ Use Python Seaborn package to create data visualizations and perform data analys
    
    There are several outputs which show different versions of the route in the process of the algorithm. You can change the user's inputs to have another sample test. There is one important thing that needs be kept in mind: when entering the departure date and time, the user has to enter a future date and time, or at least the current date/time, because the Google Map API would only accept the future or at least current date and time. 
    
-   ---
+---
    
 ### 03 Website: Jie Heng
 
@@ -79,17 +79,17 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
 * Templates: 
 
- + home page(home.html)
+  + home page(home.html)
 
- + base template(new.html)
+  + base template(new.html)
 
 #### 2. Route
 
 * Templates:
 
- + form page(index.html)
+  + form page(index.html)
         
- + map page(map.html)
+  + map page(map.html)
 
 
 * Python files are written by Xi Chen: 
