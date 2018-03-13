@@ -23,7 +23,7 @@ http://gis.chicagopolice.org/clearmap_crime_sums/crime_types.html#N14
 Crawl data from Chicago Police Department Clear Map Crime Summary 
 
 ##### Merge_two_dataset.py 
-Merge data output from Modify_csv_data.py and Get_Security_Alert.py 
+Merge data output from Modify_csv_data.py and Get_Security_Alert.py to get the "Final_data.csv"
 
 ##### Convert_to_dict.py
 Convert the output from Modify_csv_data.py into a dictionary and export as json file
