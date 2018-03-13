@@ -1,7 +1,6 @@
 # CS122 / CAPP30122 Final Project
-# CHB Group
-
-## Xi Chen, Jie Heng, Chen Bao
+## CHB Group
+### Xi Chen, Jie Heng, Chen Bao
 
 
 ###  01 Data Prep and Visualization: Chen Bao 
@@ -69,4 +68,4 @@ Use Python Seaborn package to create data visualizations and perform data analys
    
    
    
-### Website: Jie Heng
+### 03 Website: Jie Heng
