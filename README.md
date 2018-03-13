@@ -7,7 +7,7 @@
 
 Data prep and visualization folder contains files including:
 
-##### Crimes_2001_to_present.scv
+##### crimes_2001_to_present.scv
 https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 This is the original CSV file we downloaded from City of Chicago Data Portal (last updated on Feb 20th), dataset reflects reported     incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present
 
