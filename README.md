@@ -122,7 +122,7 @@ Use Python Seaborn package to create data visualizations and perform data analys
 
 The template of the website is found from the Internet, the copyright is at the bottom of each page.
          
-#### **` Run server(IMPORTANT) `**:
+##### **` Run server(IMPORTANT) `**:
 
 Some functions of website(date and time picker) cannot work in the old version of fire fox in VM. Please run the following code in terminal first to install chrome:
 
