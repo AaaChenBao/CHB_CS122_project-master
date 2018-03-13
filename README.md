@@ -90,7 +90,8 @@ Use Python Seaborn package to create data visualizations and perform data analys
                Get_route_for_map.py,
                Subset_data_by_time.py. 
             Only Choose_safest_route.py is imported in views.py,  Compute_crime_weights.py and         
-            Subset_data_by_time.py are used to generated csv files in route/Data that are used to filter crime data by time and date.
+            Subset_data_by_time.py are used to generated csv files in route/Data 
+            that are used to filter crime data by time and date.
             Get_route_for_map.py is used in views.py, to get a list of waypoints 
          2. Other python files are written by Jie Heng:
                checkplace.py is used to test if user searches a valid address  
@@ -98,12 +99,15 @@ Use Python Seaborn package to create data visualizations and perform data analys
 ##### visual_crime
       Template:
          heatmap page(index.html)
+      Others:
+         Past one'years crime data in Hyde Park is used to display the heatmap. Data is stored in visual_crime/static/route1.js
    
 ##### analysis
       Template:
          data analysis page(analysis.html)
          
-The templates of the templates are found from the Internet, the copyright is at the bottom of the page.
+##### copywrite
+      The templates of the templates are found from the Internet, the copyright is at the bottom of each page.
          
 #### Run server:
       Please go to "03 Website/" and run "$ python manage.py runserver" in the VM terminal.
