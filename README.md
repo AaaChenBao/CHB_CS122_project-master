@@ -143,7 +143,9 @@ https://developers.google.com/maps/documentation/javascript/earthquakes?hl
 
 https://developers.google.com/maps/documentation/javascript/examples/places-autocomplete-addressform?hl
 
+Using marker to diaplay the map:
 
+https://stackoverflow.com/questions/8779886/exceed-23-waypoint-per-request-limit-on-google-directions-api-business-work-lev
 
 Website template:
 
