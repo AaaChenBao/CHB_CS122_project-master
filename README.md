@@ -100,10 +100,10 @@ Use Python Seaborn package to create data visualizations and perform data analys
                
 ##### visual_crime
 
-      Template:
-         heatmap page(index.html)
-      Others:
-         Past one'years crime data in Hyde Park is used to display the heatmap. Data is stored in visual_crime/static/route1.js
+Template:
+   heatmap page(index.html)
+Others:
+   Past one'years crime data in Hyde Park is used to display the heatmap. Data is stored in visual_crime/static/route1.js
    
 ##### analysis
 
